@@ -9,7 +9,7 @@ import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 import SvgMore from "@material-ui/icons/ExpandMore";
 
-const NestedTable = () => {
+class NestedTable extends React.Component {
   constructor(props) {
     super(props);
 

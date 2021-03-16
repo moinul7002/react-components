@@ -1,8 +1,8 @@
 import React from "react";
-import NestedTable from "./components/NestedTable";
+import BookList from "./components/BookList";
 
 const App = () => {
-  return <NestedTable />;
+  return <BookList />;
   //component name
 };
 
